@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version='1.1' width='188px' height='43px' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+	<g transform="translate(-264.65,-558.6)">
+	<clipPath id="clip_1"><rect x="-2" y="-2" width="188" height="42.6"/></clipPath><text clip-path="url(#clip_1)" width="188" height="42.6" transform="translate(266.6, 560.6)" style="text-rendering: optimizeLegibility;kerning: 0;font-family: _Ebrima;font-size: 26px;fill: #FFFFFF;"></text>
+	<font horiz-adv-x="2048">
+	<!--© 2009 Microsoft Corporation. All Rights Reserved. -->
+		<font-face font-family="_Ebrima" font-style="normal" font-weight="normal" units-per-em="2048" underline-position="-178" underline-thickness="119"/>
+		<missing-glyph  horiz-adv-x="1322" d="M166,1398L166,0L1156,0L1156,1398zM314,1250L1008,1250L1008,148L314,148z"/>
+	</font>
+	</g>
+</svg>

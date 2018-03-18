@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version='1.1' width='14px' height='14px' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+	<defs>
+		<linearGradient id="grad0" gradientUnits="userSpaceOnUse" x1="7.5" y1="13.975" x2="7.5" y2="-0.675">
+		<stop offset="0%" stop-color="#5B5D5E"/>
+		<stop offset="100%" stop-color="#B7BABC"/>
+		</linearGradient>
+		<linearGradient id="grad1" gradientUnits="userSpaceOnUse" x1="5.95" y1="12.2875" x2="5.95" y2="0.3125">
+		<stop offset="0%" stop-color="#CCCCCC" stop-opacity="0.4"/>
+		<stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.6"/>
+		</linearGradient>
+	</defs>
+		<path d="M 11.25 11.25 Q 13 9.5 13 7 Q 13 4.5 11.25 2.75 Q 9.5 1 7 1 Q 4.5 1 2.75 2.75 Q 1 4.5 1 7 Q 1 9.5 2.75 11.25 Q 4.5 13 7 13 Q 9.5 13 11.25 11.25 Z M 11.95 2.05 Q 14 4.1 14 7 Q 14 9.9 11.95 11.95 Q 9.9 14 7 14 Q 4.1 14 2.05 11.95 Q 0 9.9 0 7 Q 0 4.1 2.05 2.05 Q 4.1 0 7 0 Q 9.9 0 11.95 2.05 Z" fill="url(#grad0)"/>
+		<path d="M 11.25 11.25 Q 9.5 13 7 13 Q 4.5 13 2.75 11.25 Q 1 9.5 1 7 Q 1 4.5 2.75 2.75 Q 4.5 1 7 1 Q 9.5 1 11.25 2.75 Q 13 4.5 13 7 Q 13 9.5 11.25 11.25 Z" fill="url(#grad1)"/>
+</svg>
